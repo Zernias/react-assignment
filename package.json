@@ -1,7 +1,7 @@
 {
   "name": "react-assignment",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://zernias.github.io/React-Assignment",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
