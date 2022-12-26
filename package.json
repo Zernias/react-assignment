@@ -1,8 +1,7 @@
 {
   "name": "react-assignment",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://zernias.github.io/React-Assignment",
+  "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -13,7 +12,6 @@
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
     "babel-jest": "^29.3.1",
-    "gh-pages": "^4.0.0",
     "jest": "^29.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -53,5 +51,6 @@
   "devDependencies": {
     "@types/react-router-dom": "^5.3.3",
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "http://Zernias.github.io/Agridence-React-Assignment"
 }
