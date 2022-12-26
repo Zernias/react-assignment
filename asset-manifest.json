@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-Assignment/static/css/main.e6c13ad2.css",
-    "main.js": "/React-Assignment/static/js/main.af460da8.js",
-    "index.html": "/React-Assignment/index.html",
-    "main.e6c13ad2.css.map": "/React-Assignment/static/css/main.e6c13ad2.css.map",
-    "main.af460da8.js.map": "/React-Assignment/static/js/main.af460da8.js.map"
+    "main.css": "/react-assignment/static/css/main.e6c13ad2.css",
+    "main.js": "/react-assignment/static/js/main.af460da8.js",
+    "index.html": "/react-assignment/index.html",
+    "main.e6c13ad2.css.map": "/react-assignment/static/css/main.e6c13ad2.css.map",
+    "main.af460da8.js.map": "/react-assignment/static/js/main.af460da8.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
